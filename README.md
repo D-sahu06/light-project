@@ -1,1 +1,1 @@
-# light-switcher
+This is a normal light switcher
